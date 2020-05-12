@@ -11,4 +11,4 @@ dimensiuni:
 material:
 
 foto  
-![in-gradina](/uploads/unnamed (1).jpg "in gradina")
+![in-gradina](/uploads/unnamed-1.jpg "in gradina")

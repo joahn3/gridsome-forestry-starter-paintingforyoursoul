@@ -7,4 +7,4 @@ project_bg_color: ''
 project_fg_color: "#D0021B"
 
 ---
-![](/uploads/unnamed (2).jpg)
+![](/uploads/unnamed-2.jpg)
