@@ -2,10 +2,10 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Painting for the soul",
+  siteUrl: `https://painting-for-the-soul.netlify.app/`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
+  titleTemplate: "%s - ",
   siteDescription: "Creative technologist",
   plugins: [
     {
