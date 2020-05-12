@@ -1,6 +1,6 @@
 ---
 date: 2020-05-13
-thumbnail: "/uploads/unnamed (1).jpg"
+thumbnail: "/uploads/unnamed-1.jpg"
 title: In gradina
 categories: []
 project_bg_color: "#FFFFFF"
