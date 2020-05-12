@@ -63,7 +63,7 @@ h1 {
   padding: 0 2rem;
 }
 
-@media (min-width: 860px) {
+@media (min-width: 430px) {
   .container {
     padding: 0 6rem;
   }
